@@ -29,13 +29,13 @@ npm run dev
 # Build for production
 npm run build
 
-# Start production server (on port 80)
+# Start production server (on port 8080)
 npm run start
 ```
 
 ## Deployment
 
-This application is configured to be served from the `/matura` base path and runs on port 80 by default.
+This application is configured to be served from the `/matura` base path and runs on port 8080 by default.
 
 ## Getting Started
 
