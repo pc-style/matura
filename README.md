@@ -1,4 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Matura Ustna - j. polski
+
+A Next.js web application for practicing Polish language oral exam questions.
+
+## Features
+
+- Dark mode support 
+- Animations and transitions
+- Mobile-friendly design
+- Dynamic question listings
+- Markdown-based content
+
+## Technologies
+
+- Next.js 14
+- React
+- TypeScript  
+- Tailwind CSS
+
+## Development
+
+```bash
+# Install dependencies
+npm install
+
+# Run development server 
+npm run dev
+
+# Build for production
+npm run build
+
+# Start production server (on port 80)
+npm run start
+```
+
+## Deployment
+
+This application is configured to be served from the `/matura` base path and runs on port 80 by default.
 
 ## Getting Started
 
